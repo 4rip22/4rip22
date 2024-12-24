@@ -8,7 +8,7 @@
 
 ### Github Statistic
 <a href="https://github.com/4rip22">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4rip22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4rip22&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
 </a>
 
 
